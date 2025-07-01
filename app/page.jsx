@@ -94,8 +94,8 @@ export default function Home() {
                 <h5 className="font-medium text-gray-800">
                   Bachelor of Computer Science
                 </h5>
-                <p className="text-gray-600 text-sm">Universitas Indonesia</p>
-                <p className="text-gray-700 text-sm">2018 - 2022</p>
+                <p className="text-gray-600 text-sm">Telkom University</p>
+                <p className="text-gray-700 text-sm">2022 - 2026</p>
               </div>
             </div>
           </section>
