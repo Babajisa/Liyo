@@ -48,7 +48,7 @@ export default function About() {
           </h1>
           <div className="space-y-6 text-gray-100 text-lg">
             <p>
-              Hello, I'm Satria Aji. I am a Front-End Developer with experience
+              Hello, Im Satria Aji. I am a Front-End Developer with experience
               in building responsive and user-friendly web interfaces using
               Next.js, Tailwind CSS, and HTML. During college, I actively
               contributed in app development projects such as SoundNata (music
@@ -74,9 +74,8 @@ export default function About() {
               <p>
                 I joined the RWID Bootcamp to learn HTML, CSS, and Next.js with
                 Tailwind CSS. I also designed an application using Figma called
-                "Shalat Yuk!!!". In a group project, I took the role of
-                front-end developer to create a music player website inspired by
-                Spotify.
+                Shalat Yuk!!!. In a group project, I took the role of front-end
+                developer to create a music player website inspired by Spotify.
               </p>
             </div>
           </div>
