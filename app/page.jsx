@@ -78,7 +78,7 @@ export default function Home() {
                     <h5 className="font-medium text-gray-800">
                       UI/UX Designer
                     </h5>
-                    <p className="text-gray-600 text-sm">2021 - 2022</p>
+                    <p className="text-gray-600 text-sm">2023 - 2024</p>
                     <p className="text-gray-700 text-sm">
                       Mendesain interface yang user-friendly dan menarik
                     </p>
@@ -91,9 +91,7 @@ export default function Home() {
                 Education
               </h4>
               <div className="border-l-4 border-purple-400 pl-3">
-                <h5 className="font-medium text-gray-800">
-                  Bachelor of Computer Science
-                </h5>
+                <h5 className="font-medium text-gray-800">S1 Informatika</h5>
                 <p className="text-gray-600 text-sm">Telkom University</p>
                 <p className="text-gray-700 text-sm">2022 - 2026</p>
               </div>
